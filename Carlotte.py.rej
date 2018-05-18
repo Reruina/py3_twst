@@ -1,0 +1,9 @@
+diff a/Carlotte.py b/Carlotte.py	(rejected hunks)
+@@ -0,6 +0,7 @@
+ 
+ 	except:
+ 		print("Error")
++		exit()
+ 
+ 
+ if __name__ == '__main__':

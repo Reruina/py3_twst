@@ -27,7 +27,6 @@ def main():
 
 	except:
 		print("Error")
-		exit()
 
 
 if __name__ == '__main__':
